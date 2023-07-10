@@ -1,0 +1,8 @@
+.template {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  background-color: black;
+  padding: 1.5rem;
+  border-radius: 1rem;
+}
